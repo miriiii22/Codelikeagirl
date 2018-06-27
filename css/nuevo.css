@@ -1,0 +1,22 @@
+body{
+  background-image: url("../img/bg2.jpg");
+  color: black;
+}
+
+.tiporest {
+  font-weight: bold;
+  font-size: 25px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.tipoletra {
+  font-family: 'Raleway', sans-serif;
+  }
+p{
+  color: white;
+}
+
+.tamaño {
+  font-size: 20px;
+
+}
